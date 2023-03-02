@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ## Docker folder ##
-/db-data/*
+db-data/**
