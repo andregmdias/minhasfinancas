@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import br.com.giannatech.minhasfinancas.api.dto.UsuarioDto;
+import br.com.giannatech.minhasfinancas.dto.UsuarioDto;
 import br.com.giannatech.minhasfinancas.exceptions.RegraNegocioException;
 import br.com.giannatech.minhasfinancas.models.entity.Usuario;
 import br.com.giannatech.minhasfinancas.service.UsuarioService;

@@ -12,7 +12,7 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import org.springframework.mock.web.MockHttpServletRequest;
 import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;
-import br.com.giannatech.minhasfinancas.api.dto.UsuarioDto;
+import br.com.giannatech.minhasfinancas.dto.UsuarioDto;
 import br.com.giannatech.minhasfinancas.models.entity.Usuario;
 import br.com.giannatech.minhasfinancas.service.UsuarioService;
 
